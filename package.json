@@ -1,0 +1,31 @@
+{
+    "name": "component-css-extractor",
+    "version": "1.0.0",
+    "description": "Extract CSS from any scoped styles in a component framework. In the browser.",
+    "src": "src/index.js",
+    "main": "dist/index.js",
+    "scripts": {
+        "build": "microbundle",
+        "dev": "microbundle watch",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Swizec/component-css-extractor.git"
+    },
+    "keywords": [
+        "styled-components",
+        "css",
+        "react",
+        "vue"
+    ],
+    "author": "Swizec Teller",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Swizec/component-css-extractor/issues"
+    },
+    "homepage": "https://github.com/Swizec/component-css-extractor#readme",
+    "devDependencies": {
+        "microbundle": "^0.11.0"
+    }
+}
