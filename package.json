@@ -1,7 +1,7 @@
 {
     "name": "component-css-extractor",
     "version": "1.0.0",
-    "description": "Extract CSS from any scoped styles in a component framework. In the browser.",
+    "description": "👨‍🎨 Extract CSS from any scoped styles in a component framework. In the browser.",
     "src": "src/index.js",
     "main": "dist/index.js",
     "scripts": {
