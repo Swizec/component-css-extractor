@@ -4,7 +4,7 @@ Extract CSS from any scoped styles in a component framework. In the browser.
 
 Try it in a CodeSandbox 👇
 
-[![CodeSandbox thumbnail](https://s3.amazonaws.com/techletter.app/screenshot-1559432321264.png)](https://codesandbox.io/s/heuristic-leakey-b645b)
+[![CodeSandbox thumbnail](https://i.imgur.com/nDckQbd.png)](https://codesandbox.io/s/heuristic-leakey-b645b)
 
 ## How to use
 
@@ -29,7 +29,7 @@ PS:  👨‍🎨 component-css-extractor won't work with server-side-rendering. 
 
 ## But why?
 
-![](https://s3.amazonaws.com/techletter.app/screenshot-1559432321264.png)
+![](https://media.giphy.com/media/1M9fmo1WAFVK0/giphy.gif)
 
 I built this for a project where I needed to export parts of my UI to raw HTML. Getting the HTML is easy, but you need styles as well or it doesn't work that great.
 
@@ -39,4 +39,4 @@ Using `element.getComputedStyle` works okay, but produces too much code. You get
 
 If you wanna see all the approaches I tried before landing on this one, you can watch this video.
 
-[![](https://s3.amazonaws.com/techletter.app/screenshot-1559432795164.png)](https://www.youtube.com/watch?v=v-akMfXZZNE)
+[![](https://i.imgur.com/BeINEPk.png)](https://www.youtube.com/watch?v=v-akMfXZZNE)
