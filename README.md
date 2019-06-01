@@ -40,3 +40,8 @@ Using `element.getComputedStyle` works okay, but produces too much code. You get
 If you wanna see all the approaches I tried before landing on this one, you can watch this video.
 
 [![](https://i.imgur.com/BeINEPk.png)](https://www.youtube.com/watch?v=v-akMfXZZNE)
+
+
+# Contributions welcome :)
+
+MIT License
