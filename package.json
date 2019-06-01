@@ -27,5 +27,8 @@
     "homepage": "https://github.com/Swizec/component-css-extractor#readme",
     "devDependencies": {
         "microbundle": "^0.11.0"
+    },
+    "dependencies": {
+        "css": "^2.2.4"
     }
 }
